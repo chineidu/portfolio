@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Neidu</title>
+    <link>https://chineidu.github.io/portfolio/post/</link>
+    <description>Recent content in Projects on Neidu</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 04 Jun 2021 12:00:00 -0500</lastBuildDate><atom:link href="https://chineidu.github.io/portfolio/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 1: House Price Prediction</title>
+      <link>https://chineidu.github.io/portfolio/post/project1/</link>
+      <pubDate>Sat, 29 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://chineidu.github.io/portfolio/post/project1/</guid>
+      <description>Project Summary
+ Created a web app that predicts the price of houses in Lagos (RMSE ~ 0.36) which helps potential house owners estimate the price of the house they are about to purchase. Scraped over 8000 houses from Nigeria Property Centre using Python and BeautifulSoup. Optimised Random Forest Regressor using GridSearchCV to obtain the best model. Built an API using flask. Python Version: 3.9 Packages: BeautifulSoup, Request, Numpy, Matplotlib, Seaborn, Scikit Learn, Pickle, and Flask.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Loan Repayment Prediction</title>
+      <link>https://chineidu.github.io/portfolio/post/project2/</link>
+      <pubDate>Thu, 20 May 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://chineidu.github.io/portfolio/post/project2/</guid>
+      <description>Project Summary
+ In this project, the various factors affecting loan repayment were clearfully analysed. The analysis showed that Credit History and Co-applicant Income are the two major factors that affect loan repaymnet. The dataset has 614 records with 12 features and a target variable Loan_Status. It contains categorical and numerical features. The categorical features were encoded and converted to numerical features. Random Forest Classifier and Ada Boost Classifier models were built and optimised.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Developers Salary Predicition</title>
+      <link>https://chineidu.github.io/portfolio/post/project3/</link>
+      <pubDate>Sun, 09 May 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://chineidu.github.io/portfolio/post/project3/</guid>
+      <description>Project Summary
+ The 2020 version of the survey data was obtained from Stack Overflow. The dataset contains about 64461 respondents (rows) who participated in the survey with 61 data points (columns) on the respondents. The target feature &amp;lsquo;ConvertedComp&amp;rsquo; which is the salary in US Dollars was predicted using some of the features in the dataset. Important features (data points) in the dataset were selected and further preprocessing was carried out.</description>
+    </item>
+    
+  </channel>
+</rss>
